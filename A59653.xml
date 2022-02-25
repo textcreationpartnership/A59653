@@ -1,0 +1,406 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon at the funeral of Mr. Christopher Glascock, the late eminent school-master of Felsted in Essex preached there Jan. 22, 1689/90, by William Shelton ...</title>
+            <author>Shelton, William, d. 1699.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1690</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 53 KB of XML-encoded text transcribed from 19 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A59653</idno>
+            <idno type="STC">Wing S3100</idno>
+            <idno type="STC">ESTC R38233</idno>
+            <idno type="EEBO-CITATION">17215706</idno>
+            <idno type="OCLC">ocm 17215706</idno>
+            <idno type="VID">106264</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A59653)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 106264)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1100:21)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon at the funeral of Mr. Christopher Glascock, the late eminent school-master of Felsted in Essex preached there Jan. 22, 1689/90, by William Shelton ...</title>
+                  <author>Shelton, William, d. 1699.</author>
+               </titleStmt>
+               <extent>[4], 32 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for N. Ranew ... and J. Robinson ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>MDCXC [1690]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title within mourning borders.</note>
+                  <note>Reproduction of original in the Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Glascock, Christopher, d. 1689 or 90.</term>
+               <term>Bible. --  N.T. --  Thessalonians, 1st, IV, 17 --  Sermons.</term>
+               <term>Funeral sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-05</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-05</date>
+            <label>Taryn Hakala</label>Sampled and proofread</change>
+         <change>
+            <date>2011-05</date>
+            <label>Taryn Hakala</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:106264:1" rendition="simple:additions"/>
+            <p>A SERMON AT THE FUNERAL OF Mr. CHRISTOPHER GLASCOCK, The late Eminent School-maſter Of <hi>Felſted</hi> in <hi>Eſſex:</hi> Preached there <hi>Jan.</hi> 22. 1689/90.</p>
+            <p>By <hi>WILLIAM SHELTON,</hi> Rector of St. <hi>James</hi> in <hi>Colcheſter.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>N. Renew</hi> at the King's Arms, and <hi>I. Robinſon</hi> at the Golden Lion in St. <hi>Pauls</hi> Church-yard, MDCXC.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:106264:2" rendition="simple:additions"/>
+            <pb facs="tcp:106264:2"/>
+            <head>To the Right Hon<hi rend="sup">ble</hi> DANIEL, Earl of <hi>NOTTINGHAM,</hi> Lord <hi>Finch</hi> of <hi>Daventry;</hi> Principal Secretary of State, and one of his Majeſties moſt Ho<g ref="char:EOLhyphen"/>nourable Privy-Council.</head>
+            <opener>
+               <salute>MY LORD,</salute>
+            </opener>
+            <p>THAT good Man, whoſe Me<g ref="char:EOLhyphen"/>mory theſe Papers endeavour to preſerve, was ſo well known, and ſo much in your Lordſhip's Favour, that were not the Character they give him, ſo diſproportionate to his Merit, I ſhould not doubt of a candid accep<g ref="char:EOLhyphen"/>tance of them.</p>
+            <p>Perhaps it was one Inſtance of his Modeſty, in his valnation of him<g ref="char:EOLhyphen"/>ſelf, that he would deſign me to this Service, who, he knew would rather under-rate than flatter him.
+<pb facs="tcp:106264:3"/>
+I humbly preſent what I have done, to you Lordſhip's Patronage; who finding leiſure (amidſt thoſe Public Cares, whereby you ſerve their Majeſties, and oblige our Church and Nation) to conſult the future flouriſhing Condition of that long fa<g ref="char:EOLhyphen"/>mous School, by taking care for a fit Succeſſor, that may deliver Poſterity from ſuffering loſs by the death of Mr. <hi>Glaſcock;</hi> will alſo vouchſafe to be a Patron as of the Concerns of the ſucceeding, ſo of the Concerns of the ſucceeding, ſo alſo of the Name and Memory of the dead School<g ref="char:EOLhyphen"/>maſter. And for his ſake will par<g ref="char:EOLhyphen"/>don this preſumptious Addreſs of his Friend.</p>
+            <closer>
+               <salute>May it pleaſe your Lordſhip,</salute>
+               <dateline>Colcheſter, <date>
+                     <hi>April 4. 1690.</hi>
+                  </date>
+               </dateline>
+               <signed>Your Lordſhip's moſt Humble and moſt Obedient Servant, WILLIAM SHELTON.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:106264:3"/>
+            <head>A SERMON At the FUNERAL of Mr. CHRISTOPHER GLASCOCK.</head>
+            <epigraph>
+               <bibl>1 THESS. iv. 17.</bibl>
+               <q>—<hi>And ſo ſhall we ever be with the Lord.</hi>
+               </q>
+            </epigraph>
+            <p>WHEN Friends take leave of each other, their parting is more or leſs ſolemn, as they apprehend the length of Time before they ſhall meet and embrace again. Therefore is the ſeparation, which Death makes between Friends, of greater conſideration; becauſe there will be no return of thoſe that are departed and gone before us: <hi>We ſhall to them, but they</hi>
+               <note place="margin">2 Sam. 12. 23.</note> 
+               <hi>ſhall not return to us.</hi> Yet even this parting is not altogether hopeleſs; and they who think ſo,
+<pb n="2" facs="tcp:106264:4"/>
+do not well underſtand the Doctrine of the Chriſtian Religion.</p>
+            <p>Such there were amongſt the <hi>Theſſalonians,</hi> Men not ſufficiently inſtructed in the Doctrine of the Reſurrection. To whom therefore St. <hi>Paul</hi> applies himſelf in the <hi>13th</hi> verſe of this Chapter, <hi>But I would not have you to be igno<g ref="char:EOLhyphen"/>rant, Brethren, concerning them which are aſleep, that ye ſorrow not even as others which have no hope.</hi> It ſeems there were ſome in that Chruch not well informed about the State of the Dead, and what was to follow after Death: Therefore in the next Verſes he eſtabliſhes the Doctrine of the Reſurrection.</p>
+            <p>Ver. 14. <hi>For if we believe that</hi> Jeſus <hi>died and roſe again; even ſo them alſo which ſleep in Jeſus, will God bring with him.</hi>
+            </p>
+            <p>Ver. 15. <hi>For this we ſay unto you by the Word of the Lord, that we which are alive, and remain unto the coming of the Lord, ſhall not prevent them which are aſleep.</hi>
+            </p>
+            <p>Ver. 16. <hi>For the Lord himſelf ſhall deſcend from Heaven with a Shout, with the Voice of the Archangel, and with the Trump of God; and the Dead in Chriſt ſhall riſe firſt.</hi>
+            </p>
+            <p>The World will laſt to a certain period of Time, and then the End of all things will be at Hand; when all the Negotiations and Corre<g ref="char:EOLhyphen"/>ſpondencies of this Life ſhall ceaſe. The Son of Man will come from Heaven in Power and great Glory: when they, who ſhall be then alive, ſhall <hi>be changed in a moment, in the twinkling of an</hi>
+               <note place="margin">1. Cor. 15. 52.</note> 
+               <hi>Eye.</hi> They ſhall not go ſo leiſurely through a
+<pb n="3" facs="tcp:106264:4"/>
+long ſtage of Death, as they whoſe Bodies are committed to the Grave, and reſolved into their firſt Duſt: but they ſhall be as effectually chan<g ref="char:EOLhyphen"/>ged from a mortal and corruptible State, as they who after a long corruption are raiſed out of the Grave. Yet ſhall they not prevent or get the ſtart of them who have been long dead.</p>
+            <p>For then ſhall the Trump of God ſound: then ſhall the Voice of the Archangel alarm, and put Life and Motion into dry bones, and ſummon together all that have been dead from the be<g ref="char:EOLhyphen"/>ginning of the World, and all that ſhall be then found alive, to attend the Lord <hi>Jeſus,</hi> who ſhall come to judg the Quick and the Dead. And when all are <hi>together caught up in the Clouds, to meet the Lord in the Air,</hi> as the be<g ref="char:EOLhyphen"/>ginning of this Verſe ſpeaks; then ſhall every Man be judged according to his Works. They who have done Evil, ſhall be puniſhed with <hi>everlaſting deſtruction from the Preſence of the</hi>
+               <note place="margin">2 Theſſ. 1. 9.</note> 
+               <hi>Lord, and from the Glory of his Power.</hi> And when <hi>workers of iniquity</hi> are ſo commanded to<note place="margin">Luke 13. 27.</note> 
+               <hi>depart from him,</hi> then they who have done good, ſhall have the Reward of their Labours in his preſence, where <hi>there is fullneſs of Joy.</hi> And this is the account given of their Happineſs and Glory in theſe words. <hi>And ſo ſhall we ever be with the Lord.</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.</p>
+            <p>I do not love nor uſe to be nice or curious in making particular Obſervations from particular Words. But becauſe, according to the number of the Greek words, four things are here plain<g ref="char:EOLhyphen"/>ly
+<pb n="4" facs="tcp:106264:5"/>
+either ſuppoſed or expreſſed, I determine my ſelf to that number.</p>
+            <list>
+               <item>We ſhall <hi>be.</hi>
+               </item>
+               <item>We ſhall <hi>ever</hi> be.</item>
+               <item>We ſhall ever be <hi>with the Lord.</hi>
+               </item>
+            </list>
+            <p>And with relation to the former words of the Verſe, We ſhall <hi>ſo ever be with the Lord.</hi>
+            </p>
+            <p>So that theſe Four Heads of Diſcourſe, ſhall comprehend what I have to ſay to theſe words.</p>
+            <list>
+               <item>1. It is here manifeſtly ſuppoſed, There is a future State; <hi>We ſhall [be] after death.</hi>
+               </item>
+               <item>2. The duration of this State is Eternal. <hi>We ſhall [ever] be.</hi>
+               </item>
+               <item>3. The ſtate in which we ſhall thus for ever continue, is deſcribed (ſo far as concerns holy Men) by <hi>being with the Lord;</hi> and elſewhere, by being <hi>preſent with the Lord.</hi>
+               </item>
+               <item>4. This ſhall be after the Quick and Dead are united in one Body, to meet our Lord <hi>Jeſus</hi> at his ſecond coming, ſo as we then meet, <hi>ſo ſhall we ever be with the Lord.</hi>
+               </item>
+            </list>
+            <p>Firſt, We do not periſh when we die. We remain in being, when the Union of Soul and Body is diſſolved; the Soul remains, and the Body ſhall in due time be reunited. We die that we may live again. There is a Future State, a Being, and a Life after Death.</p>
+            <p>
+               <pb n="5" facs="tcp:106264:5"/>Though it be no ſufficient excuſe for Igno<g ref="char:EOLhyphen"/>rance, yet it may ſuggeſt this pious Meditation to us, to bewail the wanton abuſe of Know<g ref="char:EOLhyphen"/>ledg, or the means of Knowledg; if we conſi<g ref="char:EOLhyphen"/>der, that in this Age of Light and Improvement, there are Men, who to outward appearance ſeem to profeſs Atheiſm, with greater and more avowed confidence, than other Men dared to do in former Ages of Ignorance and Superſtition. There was one or two ſuſpected of old among the <hi>Athenians,</hi> but they were ſcorned and re<g ref="char:EOLhyphen"/>proached, as unworthy of the Reaſon that was planted in them. There may, at other times, have been ſome <hi>Fools who have ſaid in their</hi>
+               <note place="margin">Pſal. 14. 1.</note> 
+               <hi>hearts, There is no God.</hi> But I queſtion whether till this Age, prodigious for Wickedneſs and Debauchery, there have been any ſuch number of Men as of late days ſo profligately bold, as to make it the ordinary entertainment of Life, to ridicule Religion, and laugh at the Notion of a Deity, and explode the Exiſtence of Spi<g ref="char:EOLhyphen"/>rits, and the Immortality of the Soul, as idle nonſenſe.</p>
+            <p>That there have been ſuch, who have ſo ſeemed to be Atheiſts, I nothing doubt. But whether any conſidering Man did really, and unfeignedly, and confidently believe that there is no God, and that there will be no future State; this I confeſs I very much doubt. And there is the greater reaſon to think there never were ſuch; becauſe ſome of thoſe whoſe vicious Inclinations have led them, firſt to wiſh, and then to deſire, and then to hope, and it may
+<pb n="6" facs="tcp:106264:6"/>
+be to think, that nothing remained after this Life; when it has pleaſed God to bring them to a better Mind, they have acknowledged, that they did not find it an eaſy thing, quite to extinguiſh the Notion of a Deity out of their Minds. Whatever ſome Men may have thought, thus much is certain; That no Man can demon<g ref="char:EOLhyphen"/>ſtrate this Negative, that there is no State af<g ref="char:EOLhyphen"/>ter this. And then this is alſo certain; if it be but poſſible, if it may but reaſonably be ſuſpect<g ref="char:EOLhyphen"/>ed, that we do not periſh when we die, it is perfect madneſs and inexcuſable folly to live as if there were no after-State, and to lay no foun<g ref="char:EOLhyphen"/>dation for an happy Eternity.</p>
+            <p>As for us, who believe what we profeſs, it lies as the very foundation of all our Religion: The Being of God is ſuppoſed in all the Exerci<g ref="char:EOLhyphen"/>ſes of our Devotion. And the Immortality of the Soul, and the Reſurrection of the Dead, and eternal Judgment, are Doctrines that do ſo much uphold all the other Articles of our Chri<g ref="char:EOLhyphen"/>ſtian Faith, that otherwiſe <hi>our Preaching would be vain, and your Faith would be vain.</hi> Nor does<note place="margin">1 Cor. 15. 14.</note> our Religion in theſe things impoſe upon our Underſtandings, and teach us to believe without Reaſon: for this has been the common ſenſe of Mankind. The Doctrine of the Reſurrection was indeed new and ſtrange to the Heathen Philoſophers; and they ſeemed to look up<g ref="char:EOLhyphen"/>on <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> as a kind of a God or Goddeſs, which the Apoſtles preached together with <hi>Je<g ref="char:EOLhyphen"/>ſus. He ſeemeth to be a ſetter forth of ſtrange</hi>
+               <note place="margin">Acts 17. 18.</note> 
+               <hi>Gods, becauſe he preached unto them</hi> Jeſus <hi>and
+<pb n="7" facs="tcp:106264:6"/>
+the Reſurrection.</hi> But our continuance in a fu<g ref="char:EOLhyphen"/>ture State was ſo incorporated in the belief of the Heathen Philoſophers and Poets, yea of their Orators and Hiſtorians too, that we may well ſay, it is a Doctrine agreeable to the Rea<g ref="char:EOLhyphen"/>ſon of Mankind.</p>
+            <p>Some Men may have expreſſed this Belief upon inſufficient or doubtful Motives: as, the preexiſtence of Souls, and the imagined appea<g ref="char:EOLhyphen"/>rances of departed Spirits. But that the Soul of Man is of a ſeparate Nature, and capable of Exiſtence ſeparate from the Body; that it is of that quickneſs and Activity as not to ſleep, or die, or turn to corruption with the Body, has been generally and firmly believed. And to<g ref="char:EOLhyphen"/>gether with the more rude and imperfect No<g ref="char:EOLhyphen"/>tices that Heathens, by the Light of Nature, have had of theſe things, our Chriſtian Religi<g ref="char:EOLhyphen"/>on both confirms us in the Truth of it, and directs us rightly to underſtand the importance of this Truth; and alſo reveals further, that our Bodies, as well as Souls, ſhall receive Life from him who is the Fountain of Life.</p>
+            <q>Poſt mortem nihil eſt, ipſa<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> mors nihil<note place="margin">Senec, Troas,</note>
+            </q>
+            <p>May be a good Verſe, but it is a very bad Sentence. To believe that nothing remains af<g ref="char:EOLhyphen"/>terDeath, is an error, which if nothing elſe can correct, yet at length the experience of a fu<g ref="char:EOLhyphen"/>ture State (when it ſhall be too late) will teach Men, that it had been ſafer and wiſer to have believed it, while they had time to make prepa<g ref="char:EOLhyphen"/>ration for it.</p>
+            <p>
+               <pb n="8" facs="tcp:106264:7"/>This is the firſt Obſervation I make from theſe words: We ſhall <hi>be</hi> after death. We are not then diſmiſt and reſolved into our firſt No<g ref="char:EOLhyphen"/>thing. Our Exiſtence continues, and our Life continues. And that it may appear how much we are concerned to live with relation to that future State, that we may not neglect it becauſe of its futurity, as if it were not worthy of our preſent care, we are further inſtructed from theſe words, that there is nothing in this our momentary Pilgrimage, that deſerves a ſetled Thought, or a fixed Affection, in compariſon of that long and never-ending State. For ſo we here read, that we ſhall <hi>ever</hi> be.</p>
+            <q>Whence I conſider,</q>
+            <p>Secondly; <hi>The future State is an Everlaſting State.</hi> Nothing is long that has an End. We linger out in this World ſome ſixty, or ſome eighty, and ſome very few near an Hundred Years: and the greater number drop off ſooner, even in the Bud or Bloſſom. But if we could live a Thouſand Years twice told, when it is once paſt, it will be but as yeſterday, when we com<g ref="char:EOLhyphen"/>pare it with a long Eternity. That is a Dura<g ref="char:EOLhyphen"/>tion that ſwallows up our Thoughts, and by the unboundedneſs of it, makes us poor and ſhort in our conceptions of it. We ſee an end of all Perfection. All that we converſe with, is finite, and it is difficult for our narrow Souls to comprehend what it is to live for ever. Hereafter we ſhall better underſtand what we now believe: but we believe it, becauſe we are
+<pb n="9" facs="tcp:106264:7"/>
+ſo taught. As by our Reaſon; That that which cannot be corrupted or ſubject to Decay, muſt remain incorruptible: ſo by our Religion, we have <hi>Life and Immortality brought to light through</hi>
+               <note place="margin">2 Tim. 1. 10.</note> 
+               <hi>the Goſpel.</hi> We are now immeaſurably ſollici<g ref="char:EOLhyphen"/>tous about an Inch of Time, whereas St. <hi>Paul</hi> by the ſhortneſs of our time would perſwade us to be more indifferent about the Affairs of this Life. <hi>This I ſay, Brethren, the time is ſhort: It</hi>
+               <note place="margin">1 Cor. 7. 29.</note> 
+               <hi>remaineth, that both they that have Wives, be as tho they had none; and they that weep, as though they wept not; and they that rejoice, as though they rejoiced not; and they that buy, as though they poſſeſſed not; and they that uſe this World, as not abuſing it; for the faſhion of this World paſ<g ref="char:EOLhyphen"/>ſeth away.</hi> But when ſhall we be ſuitably af<g ref="char:EOLhyphen"/>fected towards a future State? Are we loth to venture the Concerns of a few days, and ſhall we put eternal Salvation to the venture? It would be an eaſier thing for Men of corrupt Minds to live, and much eaſier to die, if Happi<g ref="char:EOLhyphen"/>neſs and Miſery both died with us. But we are now in a tendency to another Life, and as our Preparations now are, ſo will our State then be. My Text indeed ſpeaks of nothing but a joyous Eternity. <hi>We ſhall ever be with the Lord.</hi> But all thoſe that live for ever, ſhall not find this true. A great part of Mankind ſhall be curſed, and commanded to depart from God. The ſame Lord Jeſus who is here ſaid to take holy Men to be for ever with himſelf, in the next Epiſtle to theſe <hi>Theſſalonians,</hi> has his com<g ref="char:EOLhyphen"/>ing deſcribed in other terms; <hi>The Lord Jeſus</hi>
+               <note place="margin">2 Theſſ. 1. 7, 8.</note> 
+               <hi>ſhall be revealed from Heaven, with his mighty
+<pb n="10" facs="tcp:106264:8"/>
+Angels, in flaming Fire, taking vengeance on them that know not God, and that obey not the Goſpel of our Lord Jeſus Chriſt.</hi> There is everlaſting Death, as well as everlaſting Life: and they who trifle away their time in this World, with<g ref="char:EOLhyphen"/>out performing the Conditions upon which e<g ref="char:EOLhyphen"/>ternal Happineſs is promiſed, will find it to their aſtoniſhment true; when though <hi>they call</hi>
+               <note place="margin">Rev. 6. 16.</note> 
+               <hi>for the Rocks and Mountains to hide them, yet the great Day of God's Wrath will come, and they ſhall not be able to ſtand.</hi>
+            </p>
+            <p>Wherefore, happy they of whom theſe words ſpeak; who, when they are called to meet the Lord in the Air, ſhall never depart from him. Which according to the tenor of the Scripture, cannot be the Portion of all Men, therefore there can be no difficulty or doubt in reſtraining my Third Obſervation to holy Men.</p>
+            <p>Thirdly, <hi>After Death, all the holy People of God ſhall for ever be with the Lord.</hi> I confeſs theſe words do not aſſure us, that immediately after Death our Souls ſhall be tranſlated to Glo<g ref="char:EOLhyphen"/>ry and Happineſs; but only tell, what ſhall be<g ref="char:EOLhyphen"/>fal us after the Reſurrection: It is now 1600 Years and upwards ſince this <hi>Epiſtle</hi> was writ<g ref="char:EOLhyphen"/>ten, and yet the end of the World is not come: And when it will come, none of us knows. How long ſoever it may be, it is but a ſmall ſpace of Time in compariſon of Eternity; and therefore it being otherwiſe certain, that our Souls do not ſleep in the interval, between the Death and the Reſurrection of the Body; I conſider it now without any diſtinction, and expreſs it indefinitely of the future State. Then
+<pb n="11" facs="tcp:106264:8"/>
+holy Men ſhall ever be with the Lord.</p>
+            <p>So has our Bleſſed Saviour aſſured us, <hi>If any</hi>
+               <note place="margin">John 12. 26.</note> 
+               <hi>Man ſerve me, let him follow me; and where I am, there ſhall alſo my Servant be.</hi> Again, <hi>In</hi>
+               <note place="margin">John 14. 2, 3.</note> 
+               <hi>my Father's houſe are many Manſions: if it were not ſo, I would have told you; I go to prepare a Place for you. And if I go and prepare a Place for you, I will come again and receive you to my ſelf, that where I am, there ye may be alſo.</hi> And the ſame aſſurance we have from other Texts in other Phraſes. Now what it is to be with the Lord, is not eaſy for us, in this preſent State, fully to ſay; But ſure we are, it deſcribes a very great and happy State. And we may, in the conſideration of it, join ſome other Texts com<g ref="char:EOLhyphen"/>pared together with thoſe I have named, out of the Goſpel of St. <hi>John; We are willing rather to</hi>
+               <note place="margin">2 Cor. 5. 8.</note> 
+               <hi>be abſent from the Body, and to be preſent with the Lord. Now we ſee through a Glaſs darkly;</hi>
+               <note place="margin">1 Cor. 13. 12.</note> 
+               <hi>but then Face to Face. His Servants ſhall ſerve</hi>
+               <note place="margin">Rev. 23. 3, 4. Pſal. 16. 11.</note> 
+               <hi>him, and they ſhall ſee his Face. In thy preſence is fulneſs of Joy: at thy right Hand are Pleaſures for evermore.</hi> And one place more particularly deſcribes the Glory of our Bodies; <hi>Who ſhall</hi>
+               <note place="margin">Phil. 3. 21.</note> 
+               <hi>change our vile Body, that it may be faſhioned like to his glorious Body.</hi>
+            </p>
+            <p>So then, to be with the Lord, is not to be advanced only to a proximity of Place, but there is an Affinity, a nearneſs of State, a re<g ref="char:EOLhyphen"/>ſemblance, and a participation alſo of that Glo<g ref="char:EOLhyphen"/>ry and Happineſs in which our Lord is. Now let us conſider a little. Holy Men ſhall ever be with the Lord; that is, they ſhall be exalted to Honour and Glory as our Lord is: Not in the
+<pb n="12" facs="tcp:106264:9"/>
+ſame degree, for of that we are not capable, but in our Meaſures, and according to our Capaci<g ref="char:EOLhyphen"/>ties; This it is to be where Chriſt our Lord is, To be honoured of his Father, and our Father; <hi>If any Man ſerve me, him will my Father honour.</hi>
+               <note place="margin">John 12. 26.</note> The honour that our Lord <hi>Jeſus</hi> did to our Na<g ref="char:EOLhyphen"/>ture, in becoming Man, ſhall then redound to our Perſons; we ſhall be taken up to be with God. He who is ſet down in the Throne of his Glory, will ennoble and raiſe us, ſo that even our Bodies, that are ſown and laid in the Grave <hi>in diſhonour, ſhall be raiſed in Glory.</hi> The diffe<g ref="char:EOLhyphen"/>rence<note place="margin">1 Cor. 15.</note> between Beauty and Deformity is eſteem<g ref="char:EOLhyphen"/>ed conſiderable in this Life; but the reflections that will beam upon us, in that glorious State, ſhall, beyond what we can now conceive, dignify our Perſons. That which now turns to Duſt and Aſhes, ſhall be transfigured, and the <hi>Righteous ſhall ſhine forth as the Sun in the</hi>
+               <note place="margin">Mat. 13. 43.</note> 
+               <hi>Kingdom of their Father.</hi> God has now honou<g ref="char:EOLhyphen"/>red Man, by making him an excellent Crea<g ref="char:EOLhyphen"/>ture, fit to govern the reſt of the Creation, if he could but govern himſelf: but we are now in a very low form of excellence in compariſon of the Honour and Dignity which our Lord Jeſus will put upon us when he calls us, as the <hi>Bleſſed of his Father, to inherit a Kingdom pre<g ref="char:EOLhyphen"/>pared</hi>
+               <note place="margin">Mat. 25. 34.</note> 
+               <hi>for us.</hi> Therefore is that which we ſhall be poſſeſſed of called Glory, <hi>a Crown of Glory, a Kingdom,</hi> an <hi>Eternal weight of Glory.</hi> In compariſon of which all the Sceptres and Crowns of this lower World are Trifles and Toys, and not worth looking after.</p>
+            <p>But again, To be with the Lord, is to be de<g ref="char:EOLhyphen"/>livered
+<pb n="13" facs="tcp:106264:9"/>
+from all the Encumbrances, and Neceſ<g ref="char:EOLhyphen"/>ſities, and Perplexities of this preſent Life: to be raiſed to <hi>fulneſs of Joy, and Pleaſures for evermore.</hi> To be ſecured from all Wants and Weakneſſes, from Sins, and Sorrows, and Fears; from the De<g ref="char:EOLhyphen"/>vil, and Hell, and Death; from whatſoever would diſturb and diſſatisfy. To be with the Lord, is to have the Lord for our God, and to dwell with us: and the conſequence of God's dwel<g ref="char:EOLhyphen"/>ling with us is, as is deſcrbed, <hi>God ſhall wipe</hi>
+               <note place="margin">Rev. 21. 4.</note> 
+               <hi>away all Tears from our Eyes, and there ſhall be nor more Death, neither Sorrow, nor Crying, neither ſhall there be any more Pain; for the former things are paſt away.</hi> The Imperfections of this State ſhall paſs away, and the Neceſſities of it too. We ſhall no more hunger nor thirſt; no more be ſollicitous what will become of us; no more amuſed and frighted with Wars, or rumours of Wars; no more in danger of Plots and Con<g ref="char:EOLhyphen"/>ſpiracies; under no diſcontent for decay of Trade, or loſs of Friends; under no pains of Body, nor trouble of Mind; beyond the reach of Sickneſs and Diſeaſes, and effectually ſecured from all diſtrubing Accidents. Yea, and be<g ref="char:EOLhyphen"/>yond all this which is but the abſence of Mi<g ref="char:EOLhyphen"/>ſery; to be with the Lord, is to <hi>be in our Fa<g ref="char:EOLhyphen"/>ther's houſe;</hi> in thoſe pleaſant Manſions where Peace and Joy dwell, and triumph; where the Eyes of our Underſtanding ſhall be inlightned and inabled to take a full view of the raviſhing Beauties of Truth and Goodneſs, which are too dazling for mortal Eyes; where our Wills ſhall be reduced to a ſweet and bleſſed compoſure, and our Affections centred and united in God
+<pb n="14" facs="tcp:106264:10"/>
+and Goodneſs, and filled with thoſe Ardours, of which we are not now capable. But when we are <hi>filled with all the fulneſs of God;</hi> when we<note place="margin">Epheſ. 3. 19.</note> ſhall know, and ſee, and adore, and magnify God the Father, the Son, and the Holy Ghoſt, for bringing us into eternal Glory: when we ſhall be paſt the Dotages of this preſent Life, and ſhall <hi>have none in Heaven but God;</hi> when<note place="margin">Pſal. 73. 25.</note> we ſhall have gathered up the wandring Powers of our Souls, and fixed them upon God the Au<g ref="char:EOLhyphen"/>thor, and the Object of our Happineſs; Then ſhall we find words fit to expreſs thoſe incom<g ref="char:EOLhyphen"/>parable Attainments, about which we do now but chatter, and give imperfect accounts of, as Children do, when they talk of Mens Af<g ref="char:EOLhyphen"/>fairs.</p>
+            <p>But when we ſhall be with the Lord, we ſhall then underſtand the happy change of our Society. We now converſe with Men of varia<g ref="char:EOLhyphen"/>ble Tempers, of difficult Paſſions, of contra<g ref="char:EOLhyphen"/>dicting Intereſts, of ungovernable Luſts; ſo that a ſolitary Wilderneſs is many times more deſirable than ſuch unacceptable Company. But when we ſhall be with the Lord, we ſhall alſo be with the <hi>Spirits of juſt Men made perfect;</hi>
+               <note place="margin">Heb. 12. 23.</note> with Men refined and purged from Dregs and Droſs, from all that would abate of the purity and ſincerity of Pleaſure, that we ſhall there en<g ref="char:EOLhyphen"/>joy from ſuitable Correſpondencies.</p>
+            <p>In a word, <hi>To be with the Lord,</hi> is to per<g ref="char:EOLhyphen"/>fectly happy. And that the fore-thoughts of an End, may not diſturb the preſent Enjoyment, we ſhall be <hi>for ever</hi> with the Lord. We ſhall not enter upon Poſſeſſions to be ejected again,
+<pb n="15" facs="tcp:106264:10"/>
+but ſhall receive a Kingdom that cannot be ſhaken. We ſhall find a Treaſure that fails not, a laſting Glory, a perpetual Spring, a never<g ref="char:EOLhyphen"/>dying Happineſs, Joys that will not wither or decay in ſixty or eighty Years. And many times a great deal ſooner the Pleaſures of this Life have no reliſh in them, but all our remain<g ref="char:EOLhyphen"/>ing Days are Evil, in which we ſay, <hi>that we have</hi>
+               <note place="margin">Eccleſ. 12.</note> 
+               <hi>no pleaſure in them.</hi> But the duration of the Happineſs of Heaven, does not waſte or dimi<g ref="char:EOLhyphen"/>niſh it: It remains freſh and flouriſhing, and full of ſatisfaction. We ſhall <hi>ever</hi> be with the Lord, ſo as never to deſire to change our Place or Company. We ſhall never be weary of what we do, nor of what we enjoy. And there can no addition be made to this Happi<g ref="char:EOLhyphen"/>neſs, but by a conſideration that we ſhall not enjoy it, as ſingle Perſons by our ſelves alone, but all holy Men who are called together ſhall be equally in his Preſence; and if not equally, yet fully as happy as their Capacities will ad<g ref="char:EOLhyphen"/>mit.</p>
+            <p>Fourthly, Which is the <hi>4th</hi> thing I have to conſider from theſe words; <hi>So ſhall we ever be with the Lord. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, So,</hi> after that manner, with reference to what was before ſaid: <hi>We which are alive, and remain, ſhall be caught up together with them in the Clouds to meet the Lord in the Air, and ſo ſhall we ever be with the Lord.</hi>
+            </p>
+            <p>That every holy Man and Woman ſhall have a diſtinct knowledg of, and a particular corre<g ref="char:EOLhyphen"/>ſpondence with every other Member of the ſame Triumphant Church, I do not define: But
+<pb n="16" facs="tcp:106264:11"/>
+that there ſhall be a Knowledg of, and con<g ref="char:EOLhyphen"/>verſe with one another, we may very reaſona<g ref="char:EOLhyphen"/>bly believe, when we conſider, That it is a great part of our Comfort and Content now, to enjoy the ſociety of our Friends. And it cannot be thought, that that bleſſed Company will derogate from, but will rather add to each others happineſs. To the torment of wicked Men, they ſhall ſee who are admitted into the Kingdom of God: <hi>There ſhall be weeping and</hi>
+               <note place="margin">Luke 13. 28.</note> 
+               <hi>gnaſhing of Teeth, when ye ſhall ſee</hi> Abraham, <hi>and</hi> Iſaac, <hi>and</hi> Jacob, <hi>and all the</hi> Prophets <hi>in the Kindgom of God, and you your ſelves thruſt out.</hi> And why ſhould it be difficult to believe, that they who are there, ſhall ſee and know one another? And it follows in the ſame place; <hi>And they ſhall come from the Eaſt, and</hi>
+               <note place="margin">Verſ. 29.</note> 
+               <hi>from the Weſt, and from the North, and from the South, and ſhall ſit down in the Kingdom of God.</hi> In the verſe of my Text, it is ſaid, they ſhall meet together. They ſhall all meet the ſame Lord, and partake of the ſame Happi<g ref="char:EOLhyphen"/>neſs, and join in the ſame Songs of Praiſe and Triumph. And who can think, when they are called together to meet their Lord, that they ſhall then be ſeparated, and know no<g ref="char:EOLhyphen"/>thing of one another's particular State? No ſure; The Communion of Saints will be per<g ref="char:EOLhyphen"/>fected in Heaven, So ſhall we <hi>ever be with the Lord.</hi> So in Company and Conſort, ſo as to be together loving one to another, as well as lo<g ref="char:EOLhyphen"/>ving God, and making acceſſions to each others Happineſs, by being ſo far ever with the Lord.</p>
+            <p>
+               <pb n="17" facs="tcp:106264:11"/>From this account of theſe words, I might make divers Inferences. I take up with Three.</p>
+            <p>1. If Holy Men ſhall be thus for <hi>ever with the Lord;</hi> then we may be content to wait with patience for a compleat Happineſs till that day comes. If it pleaſe God to exerciſe us with Sorrows and Troubles in this Life, we muſt remember, it is <hi>the Kingdom of God</hi> to which<note place="margin">Acts 14. 22.</note> we are paſſing <hi>through theſe many Tribulations.</hi> All the Afflictions of this Life cannot make us throughly miſerable, not finally miſerable; we are able to ſee through them to what is reſerved in the Heavens for us. When we are for ever with the Lord, we ſhall never be diverted or diſturbed, or called off from the continual en<g ref="char:EOLhyphen"/>joyment of that fulneſs of Joy; we cannot be for ever miſerable. Afflictions are but for a while, and in compariſon of Eternity they en<g ref="char:EOLhyphen"/>dure but for a moment. But when all theſe Clouds are blown over, then at the Morning of the Reſurrection, there will open upon us a Glory brighter than the Noon-day Sun; A Glo<g ref="char:EOLhyphen"/>ry that will never ſet or fade: Becauſe our Lord will one day take us to be ſo near himſelf, we ought to be well content, whilſt we are here in the Body, to be exerciſed as it ſhall pleaſe the Wiſdom of God.</p>
+            <p>2. <hi>We ſhall ever be with the Lord:</hi> but this is not the portion of all Men, as has been already ſaid. And beſides the concurring Teſtimony of the whole Scripture, the next <hi>Epiſtle</hi> tells us what will become of wicked Men at the ſe<g ref="char:EOLhyphen"/>cond coming of Chriſt. Wherefore this Ex<g ref="char:EOLhyphen"/>hortation
+<pb n="18" facs="tcp:106264:12"/>
+has here a proper place; that we would ſo live now, as that we may hereafter be for ever with the Lord. And that I ex<g ref="char:EOLhyphen"/>preſs in the words of our Saviour; <hi>If any Man</hi>
+               <note place="margin">John 12. 26.</note> 
+               <hi>ſerve me, let him follow me; and where I am, there ſhall alſo my Servant be.</hi> There can be no hopes of being hereafter where our Lord and Maſter is, unleſs we now follow him by Obe<g ref="char:EOLhyphen"/>dience to him and Imitation of him. He is our Lord, and as ſuch, he has in his holy Go<g ref="char:EOLhyphen"/>ſpel given us incomparable Precepts for a good Life; and to encourage our Obedience, he has confirmed and explained theſe Precepts, by his own moſt excellent Example. If we follow him in the Temper of our Minds, and in the Holineſs of our Lives, he will take us up to be with himſelf; elſe, if we expect the Reward without doing our Work; if we preſume up<g ref="char:EOLhyphen"/>on the fulfilling the Promiſe, when we will not obey the Command; if we truſt we ſhall be Happy in Heaven, though we will not be Holy upon Earth, we deceive our ſelves, and ruin our ſelves by that deceit. Nothing impure ſhall enter that Holy Place. We ſhall never be fit to be admitted into the preſence of an Holy Sa<g ref="char:EOLhyphen"/>viour, to ſee the Face of an Holy God, unleſs we our ſelves be alſo Holy.</p>
+            <p>The exccllency of an Holy Life makes it very reaſonable, but the hopes of Happineſs makes it very neceſſary. All workers of Iniquity ſhall be commanded to depart from God. <hi>Without Holineſs no Man ſhall ſee the Lord.</hi> If we be<note place="margin">Heb. 12. 14.</note> aſhamed of Chriſt and his Commandments here, he will be aſhamed of us then, and will
+<pb n="19" facs="tcp:106264:12"/>
+ſend us to our proper place: wherefore as we deſire the End, we muſt uſe the Means, we muſt live <hi>ſoberly, righteouſly, and godly in this</hi>
+               <note place="margin">Tirus 2. 12.</note> 
+               <hi>preſent World,</hi> for that is the only way of being for ever with the Lord for the time to come.</p>
+            <p>3. From hence appears the reaſonableneſs of the exhortation in the next Verſe. <hi>Where<g ref="char:EOLhyphen"/>fore</hi>
+               <note place="margin">Verſ. 18.</note> 
+               <hi>comfort one another with theſe words.</hi> And of that before; <hi>I would not have you ignorant</hi>
+               <note place="margin">Verſ. 13.</note> 
+               <hi>concerning them which are aſleep, that ye ſorrow not, even as others which have no hope.</hi> Our Ho<g ref="char:EOLhyphen"/>ly and Religious Friends, whom Death takes from us, are not loſt; they are gone before us to a better Place, and to better Company. And by what we read in this <hi>17th</hi> Verſe, we know where to find them, if we follow them after ſuch a manner as that we may overtake them. They are taken from us, and according as we needed or delighted in their Company, our loſs may be the greater in their abſence. But if they were our Friends, it does not become us to grudg them their Happineſs. They are now with the Lord, in the preſence of God and of Jeſus Chriſt, whither we ſhall e're long be ta<g ref="char:EOLhyphen"/>ken, if we be followers of them <hi>who through Faith and Patience inherit the Promiſes.</hi>
+            </p>
+            <p>I have been the leſs prolix in my Diſcourſe up<g ref="char:EOLhyphen"/>on theſe words, that I might have ſome time to ſpare, to pay thoſe Reſpects which are ſo juſtly due to the memory of that Reverend and Worthy Man whoſe Funerals we now ſolemnize.</p>
+            <p>Upon which occaſion, I muſt take liberty to bewail the misfortune of this great and Wor<g ref="char:EOLhyphen"/>thy
+<pb n="20" facs="tcp:106264:13"/>
+Auditory, that this Lot is fallen upon me, who in divers reſpects am leſs fit for this Ser<g ref="char:EOLhyphen"/>vice than many worthier Men of this Neigh<g ref="char:EOLhyphen"/>bourhood. Not only becauſe of my own De<g ref="char:EOLhyphen"/>fects, of which I deſire always to be duly con<g ref="char:EOLhyphen"/>ſcious; nor, together with that Conſideration, becauſe of the ſtraits of Time only, which gave me leſs leiſure to recover my ſelf from an hurry of Thoughts; but alſo becauſe of the diſtance in which I have lived from him, which gave me leſs opportunity of making thoſe Remarks upon his daily Converſation, which would have helped forward the Character that ought to be given of him. But when I have promiſed my ſelf, that you who converſed with him oftner, will ſupply the Defects that you find in this Ac<g ref="char:EOLhyphen"/>count, from your more frequent and daily Ob<g ref="char:EOLhyphen"/>ſervations of what was eminent and praiſe<g ref="char:EOLhyphen"/>worthy in him; I take leave to proceed, when I have firſt ſaid,</p>
+            <p>That I have known him not much leſs than 40 Years. And beſides divers Correſpondencies by Letters, I have had the happineſs of frequent converſing with him, and therefore may be thought in ſome meaſure fit to ſay ſomething of him.</p>
+            <p>In which I may be excuſed from giving a large account of the former part of his Life, before he was fixed in this Place, or before I had any knowledg of him.</p>
+            <p>For though he was born in this County and Neighbourhood, and educated in this School; from whence he removed to <hi>Katherine-Hall</hi> in <hi>Cambridg,</hi> and from thence to a private Town in
+<pb n="21" facs="tcp:106264:13"/>
+this County (<hi>Chipping-Ongar</hi>) where he began his Employment of a School-maſter, and where he gained ſuch a reputation for his Abilities in that Employment, that he was, after a few Years continuance there, ſollicited to remove to <hi>Ipſwich:</hi> In which Town of note, he was un<g ref="char:EOLhyphen"/>derſtood to be ſo perfect a Maſter in his Art, that the then Lord of <hi>Warwick</hi> courted him hither. Yet theſe things being ſo long ago, that there are few alive that can give any perfect account of them, and he being ſetled here in the Year 1649, (or thereabouts, I am ſure before the middle of 1650) he has lived here long enough to make good the Truth of all I ſhall ſay concerning him. Which I reduce to theſe Heads.</p>
+            <list>
+               <head>I conſider him</head>
+               <item>As a Man.</item>
+               <item>As a Neighbour.</item>
+               <item>As a Friend.</item>
+               <item>As a School-maſter.</item>
+               <item>As a Divine.</item>
+               <item>As a ſincere honeſt Man, and good Chriſtian.</item>
+            </list>
+            <p n="1">1. As a Man, I only remark the ſtrength and vivacity of his old Age. God bleſſed him with an able Body fit for his able Mind. He was not <hi>pondus inutile terrae.</hi> He did not out-live his Serviceableneſs. His Strength and Health con<g ref="char:EOLhyphen"/>tinued with him, ſo as he was not wanting to his Employment, even almoſt to the laſt days of his Life. Which I do not note as properly his Vertue, for then it would be imputable as the Fault of thoſe who decay ſooner, but his
+<pb n="22" facs="tcp:106264:14"/>
+Felicity it was, and the Felicity of thoſe who were recommended to his Care; that they did not waſte a great deal of their precious Time under an old decayed Schoolmaſter, who was not able to fulfil the Ends for which they were ſent to him. But when he was of a great Age (about 76) as he eſteemed himſelf born for Service, ſo he was able to purſue the Ends for which he came into the World, as long as he conti<g ref="char:EOLhyphen"/>nued in it.</p>
+            <p n="2">2. What a Neighbour he was, you of this Place do very well know. How uſeful and friendly; how ready to make Peace, and to do all good Offices that lay in his Power. Of this I may be allowed to ſay the leſs, becauſe En<g ref="char:EOLhyphen"/>vy it ſelf cannot charge his Memory in this Matter. He never was a ſelf-deſigning Man. He was of no ſowr or moroſe Diſpoſition. Ne<g ref="char:EOLhyphen"/>ver inclined to make or increaſe Quarrels or Contentions. Nor could he be content to cloy<g ref="char:EOLhyphen"/>ſter up himſelf, and to live ſo retired, as to de<g ref="char:EOLhyphen"/>ny others the advantage of his Converſation; but hearty and free, and open-ſpirited, and as willing to do Kindneſſes, as others are to re<g ref="char:EOLhyphen"/>ceive them.</p>
+            <p>What an excellent Companion he was, all the Country knows, as well as this Town. Nor do I know one Man this day in <hi>Eſſex</hi> of more general Acquaintance, and whoſe Company was more univerſally greateful, and well accepted, than <hi>Mr. Glaſcock's</hi> of <hi>Felſted</hi> was. A great Argument that he did not manage private In<g ref="char:EOLhyphen"/>trigues to the prejudice of any with whom he converſed: He was no double-tongu'd Man, to
+<pb n="23" facs="tcp:106264:14"/>
+whiſper Stories in one place, and contradict them in another; but where-ever he came he was ſo heartily welcome, as it appeared, that all Men had confidence in him, and by long experience they found, he did not de<g ref="char:EOLhyphen"/>ceive their confidence. Such was his more ge<g ref="char:EOLhyphen"/>neral Converſation.</p>
+            <p>But <hi>3dly,</hi> as a friend, I muſt do that right to the ſacredneſs of Friendſhip, as to propoſe him for an excellent Example of a truſly Friend. There is ſo much artifice and pretence in the World, that it is not eaſy to know whom to confide in.</p>
+            <lg>
+               <l>
+                  <hi>Love's almoſt loſt, the way of Friendſhip's gone.</hi>
+                  <note place="margin">Herbert.</note>
+               </l>
+               <l>
+                  <hi>Tho'</hi> David <hi>had his</hi> Jonathan, Chriſt <hi>his</hi> John.</l>
+            </lg>
+            <p>But this was a Man to whom you might freely unboſome your Souls; to whom you might ſafely commit a Secret; of whoſe aſſiſtance you might promiſe your ſelf in any caſe that was in his Power, ſo far as it was not baſe or diſhonourable. And there every good Man muſt ſtop. He that is <hi>Amicus uſ<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> ad aras,</hi> may be allowed to go no further, leſt whilſt he values the Friendſhip of this World, he becomes the Enemy of God. But he that wanted a Friend, and knew how to make a good uſe of him, might know where to find him, as long as this our Common Friend lived.</p>
+            <p>This I have thought my ſelf obliged to ſay, becauſe I ſay it upon good aſſurance; from the very friendly reſpects he has been pleaſed long
+<pb n="24" facs="tcp:106264:15"/>
+to bear to me; which becauſe I have ſo little de<g ref="char:EOLhyphen"/>ſerved from him, I make no doubt but that he has with the ſame ſincerity approved him<g ref="char:EOLhyphen"/>ſelf to many others.</p>
+            <p>That which I have hitherto ſaid, I did not well know how to contract. But,</p>
+            <p>4. I muſt beg a little more of your patience to recommend him as Eminent in his Profeſ<g ref="char:EOLhyphen"/>ſion as a <hi>School-maſter.</hi> In which, before he came hither, he was of ſo good Note, that di<g ref="char:EOLhyphen"/>vers Perſons of Quality ſent their Children with him hither, from <hi>Ipſwich;</hi> chuſing rather that they ſhould be at a greater diſtance from their Parents, than not be under his Care.</p>
+            <p>Here he has lived about 40 Years: And if we might make Gueſſes at things, it is a great preſumption, that he was admirably well qua<g ref="char:EOLhyphen"/>lified for his Employment; In that, whereas in a much leſs tract of Time, many other Men, in ſeveral Profeſſions, either by their own Irre<g ref="char:EOLhyphen"/>gularities and Indiſcretions, or by the forward<g ref="char:EOLhyphen"/>neſs thoſe among whom they have lived, have out-lived their Credit; yet this worthy and good Man, during his 40 Years abode in one Place, has not forfeited his Reputation, but carries with him to the Grave a very fair E<g ref="char:EOLhyphen"/>ſteem, and an honourable good Name.</p>
+            <p>So many Gentlemen, and Perſons of Honour and Quality as have been bred up under his Care, and having lived to make ſome Figure in the World, have been able to ſhew their Gratitude to him, and ſo many others having committed the Education of their Sons to him, it cannot
+<pb n="25" facs="tcp:106264:15"/>
+be thought ſtrange, if he has had many and frequent Invitations to diſpoſe a conſiderable part of his Time amongſt his Worthy Friends. And the times of the receſs of his Scholars, he did uſe ſo to diſtribute to the great content and ſatisfaction of thoſe who could be happy in his Company.</p>
+            <p>And when due allowance is made for that, it is well known how diligent he was, and how he loved to move in his own ſphere, and diſ<g ref="char:EOLhyphen"/>charge his Duty in his School; where his great Learning was of ſo publick notice, that it is needleſs for me to commend that, which no Body ever called in queſtion. The prudence of his Conduct, whereby according to the ſe<g ref="char:EOLhyphen"/>veral Diſpoſitions of his Scholars, he knew how to apply himſelf to them, ſo as moſt ſuc<g ref="char:EOLhyphen"/>ceſsfully to gain upon them, was alſo particularly remarkable. He loved his Scholars, and was well beloved of them. He ſeldom uſed the Rod, but upon the provocation of ſome Immorality. The very great number of good Scholars that owe their firſt Learning to his Care, will be able to teſtify to the World, that if others were not ſo, it was more the fault of the Scholar than the Maſter.</p>
+            <p>There is ſcarce a more uſeful ſort of Men in a Common-wealth, than good School-maſters. They do in a ſort <hi>pingere aeternitati;</hi> The next Generation depends much upon their Diligence and Care. And for this will the Memory of that Honourable Family that planted him here be bleſſed (though he ſurvived them all)
+<pb n="26" facs="tcp:106264:16"/>
+that they recommended ſo able and uſeful a Per<g ref="char:EOLhyphen"/>ſon to that Employment, that had ſo great an influence upon the welfare of Mankind.</p>
+            <p>I would ask your Pardon, that I ſay no more in this part of his Character, where his Excel<g ref="char:EOLhyphen"/>lencies were ſo peculiar, but that they were ſo viſible and eminent, that there is leſs need I ſhould hazard your patience. I haſten there<g ref="char:EOLhyphen"/>fore,</p>
+            <p>And <hi>5thly,</hi> commend him to you for an able Divine: A Man well skill'd in Controverſies; but he knew them better than he loved them; and ſtudied them more for his own Satisfaction, than that he cared to trouble the World about them. Though Preaching were not his conſtant Province, yet as he had divers Occaſions to ſhow his Abilities in that kind, ſo he did it with great ſatisfaction to others: and with this mark of ſelf-denial in himſelf, that he did not affect Pedantry, or a vain Oſtentation of that Learning of which he was ſo great a Maſter. For though he was a great Critic and Philolo<g ref="char:EOLhyphen"/>giſt, and in diſcourſe among his Friends, that were capable of that ſort of Learning, he was very communicative of his Nations; yet he knew when to lay it aſide, as well as when to uſe it. And that which was more fit for his School, or for the private Entertainment of his Learned Friends, he was well content to keep out of the Pulpit.</p>
+            <p>Great was his Moderation in Matters of Con<g ref="char:EOLhyphen"/>troverſy that were of leſs neceſſity. And if in any thing he ſhow'd ſomething like Paſſion, it
+<pb n="27" facs="tcp:106264:16"/>
+was againſt thoſe eager Men, who laid more ſtreſs upon the Circumſtances than the Sub<g ref="char:EOLhyphen"/>ſtance of Religion. He had indeed a Compaſ<g ref="char:EOLhyphen"/>ſion for Diſſenters, and ſuch as by ſome might be interpreted a favouring of their way: But his Charity was more to their Perſons, than their Cauſe. And by what he had obſerved in the times (before the return of Monarchy and Epiſcopacy) when they governed the Pulpits, he was fully convinced of the great neceſſity of a ſtated Liturgy; thereby to prevent the Imper<g ref="char:EOLhyphen"/>tinencies and Indiſcretions (to ſay no worſe of them) that were ſo frequent in their Service of God both in Prayer and Adminiſtration of the Sacraments. But he had a kindneſs for the Men, ſo as to teſtify it in the moſt proper way, by endeavouring what in him lay to remove their Prejudices, and to recover them to Com<g ref="char:EOLhyphen"/>munion with us. And if he could have found the ſame Temper and Candor in them, that he ſhow'd towards them, he had been more ſucceſ<g ref="char:EOLhyphen"/>ful in that kind.</p>
+            <p>But though his Temper would not allow him to be fierce, yet he had not ſuch a tame<g ref="char:EOLhyphen"/>neſs of Spirit, as not to manifeſt his Zeal in re<g ref="char:EOLhyphen"/>ſpect to the Subſtantials of Religion, a regu<g ref="char:EOLhyphen"/>lar Converſation, and good Life. He did often uſe deeply to lament the Debaucheries and Im<g ref="char:EOLhyphen"/>moralities of the Age in which we live, and could not endure to ſee Morality juſtled out of Religion.</p>
+            <p>And this being one Inſtance of his being a good Man, as well as a good Divine, it leads
+<pb n="28" facs="tcp:106264:17"/>
+me to the laſt thing I promiſed to obſerve in him, which is indeed much more worth than all the reſt, ſo far as they can be ſeparated from this. He was,</p>
+            <p>6. A good Man: One that did value Religi<g ref="char:EOLhyphen"/>on beyond Learning, or any other Accompliſh<g ref="char:EOLhyphen"/>ments of this Life. How little he valued Rich<g ref="char:EOLhyphen"/>es, appears by the no great Acceſſions he has made to his Paternal Eſtate, notwithſtanding the many and the long Advantages he had to heap up Wealth, if he had thought himſelf born e<g ref="char:EOLhyphen"/>ſpecially for that purpoſe.</p>
+            <p>How little he was concerned to advance him<g ref="char:EOLhyphen"/>ſelf in the World, was manifeſt ſome Years ago, by his ſlowneſs to uſe his Intereſt for a School. of great Eminence in the City of <hi>London:</hi> In which probably he might have ſucceeded, if he could have perſwaded himſelf to have quic<g ref="char:EOLhyphen"/>kened his Pace in purſuing after it: But he was contented in the Sphere in which he had ſo long moved. And as he was not Covetous or Am<g ref="char:EOLhyphen"/>bitious, ſo did he give many Inſtances of his Charity, and Meekneſs, and Humility, and o<g ref="char:EOLhyphen"/>ther commendable Vertues.</p>
+            <p>He found many Occaſions for the Exerciſe of his Charity, yea, he ſought them that he might find them. So ready to help his Neighbours in a ſtreight, that often, when he obſerved them under troubled Thoughts, he would ask them if they wanted Mony? and would freely lend it to ſerve their Neceſſities. And much good in other kinds he did. But there are two Inſtan<g ref="char:EOLhyphen"/>ces of a liberal Mind, not to be omitted; He
+<pb n="29" facs="tcp:106264:17"/>
+was very ready in contributing to the Main<g ref="char:EOLhyphen"/>tenance of poor Scholars at the Univerſity: And ſo kind to Clergy-men, as to be content<g ref="char:EOLhyphen"/>ed with half pay for the Education of their Sons, and oftentimes with none at all.</p>
+            <p>His Meekneſs and Gentleneſs bore proportion to his Charity. But if I ſhould give particular Inſtances of it, I muſt thereby reflect upon the Provocations that have been given him: let it therefore be enough to ſay, That as no Man can live long in the World, but he ſhall meet with frequent exerciſes of his Meekneſs and Pa<g ref="char:EOLhyphen"/>tience, ſo eſpecially School-maſters, who are ſo often in danger of being rufled and diſordered by the Raſhneſſes and Extravagancies of their young Scholars, have need of a good Guard up<g ref="char:EOLhyphen"/>on themſelves upon this account. But what<g ref="char:EOLhyphen"/>ever Mr. <hi>Glaſcock</hi> might meet with in this or any other kind, he had a great command of his Paſſions, and governed them with a like Fe<g ref="char:EOLhyphen"/>licity, as he did his Scholars.</p>
+            <p>His Humility alſo (which is a neceſſary diſ<g ref="char:EOLhyphen"/>poſition for meekneſs) was very conſpicuous. That eſteem which he generally had in the World, did not puff him up to a lofty conceit of himſelf; but he was very condeſcending to his Inferiors in Worth, as well as in Age. And I think few Men are more ready than he was, <hi>in lowlineſs of Mind to eſteem others better than</hi>
+               <note place="margin">Phil. 2. 3.</note> 
+               <hi>himſelf.</hi>
+            </p>
+            <p>In this Place, where all believe it, the men<g ref="char:EOLhyphen"/>tion of it is enough. But becauſe it is a neceſ<g ref="char:EOLhyphen"/>ſary Qualification of a good Man, let me add a
+<pb n="30" facs="tcp:106264:18"/>
+word of his Faithfulneſs to the Relations wherein he was more peculiarly engaged. A very loving Husband. A very tender Father. A very kind Maſter, who was willing to give to all that which was juſt and equal, as <hi>knowing that he alſo had a Maſter in Heaven.</hi>
+            </p>
+            <p>He that was thus careful among Men to ren<g ref="char:EOLhyphen"/>der to all their Dues, did not forget his Reli<g ref="char:EOLhyphen"/>gion towards God. A ſincere unaffected Reli<g ref="char:EOLhyphen"/>gion, wherein he did not by any means neg<g ref="char:EOLhyphen"/>lect that which is outward and decent, but la<g ref="char:EOLhyphen"/>mented the Ignorance of thoſe, who upon that account diſſented from us. But he did much more value the ſubſtantial Parts of true and un<g ref="char:EOLhyphen"/>diſſembled Piety.</p>
+            <p>Thus he lived to a great Age. The greateſt part of his time being ſpent in the view of the World; he behaved himſelf ſo, as he needed not be aſhamed of himſelf, or the manner of his Life.</p>
+            <p>And as he had for a long time practiſed the Vertues that were proper to Health and Con<g ref="char:EOLhyphen"/>verſation; ſo, when it pleaſed God to change his State, and bring him by ſomeleiſurely Approach<g ref="char:EOLhyphen"/>es towards Death, he was not at a loſs for that Patience and Reſignation that was proper for a time of Sickneſs and Death.</p>
+            <p>Of which I can ſay nothing of my own know<g ref="char:EOLhyphen"/>ledg, not having been with him, or ſeen him, ſince his laſt ſickneſs. But I am very well con<g ref="char:EOLhyphen"/>firmed, by thoſe who were often with him, that his Behaviour then was according to the Tenor of his forepaſt Life. He did not covet to live:
+<pb n="31" facs="tcp:106264:18"/>
+for he had long ago ſeen through all the Vani<g ref="char:EOLhyphen"/>ties of this World, and did not think it worth the while to live for their ſakes. Nor was he afraid to die. And when it came upon him, God was merciful to him, and gave him an eaſy and painleſs Death, and made it a comfor<g ref="char:EOLhyphen"/>table Paſſage for him into a better World. Where he is (as we with very good Grounds confidently hope) admitted among thoſe that are <hi>for ever with the Lord.</hi>
+            </p>
+            <p>You that are grown up, will know how to apply theſe things to your ſelves, and will un<g ref="char:EOLhyphen"/>derſtand it your Duty to endeavour ſo to live, that you may alſo, when you die, have hopes of being tranſlated into the Preſence of God.</p>
+            <p>Suffer me to make but one Reflection upon all that I have ſaid, for the ſake of thoſe who have now loſt the Guide of their Youth, and I conclude.</p>
+            <p>You, young Gentlemen, who have now loſt your Maſter, let me exhort you in theſe words, <hi>Remember him who has had the Rule over you:</hi> Re<g ref="char:EOLhyphen"/>member his good Counſels and his good Exam<g ref="char:EOLhyphen"/>ple, I doubt not but it will be of uſe to you, in your Paſſage through the World, when you ſhall be tempted to any vicious courſe of Life, to any ungentile, to any unſcholarlike, to any Unchri<g ref="char:EOLhyphen"/>ſtian Practices; to ſay to your ſelves, This Ad<g ref="char:EOLhyphen"/>vice I remember my Maſter <hi>Glaſcock</hi> gave me, and by the Grace of God I reſolve to follow it. Your Memories are now tenacious; you will remember what you now hear, much better
+<pb n="32" facs="tcp:106264:19"/>
+than many other things that may occur after<g ref="char:EOLhyphen"/>wards.</p>
+            <p>I do not tempt you to ſuſpect, that you ſhall find reaſon to bewail the want of him in his Succeſſor; That Perſon of great Honour, who is concerned in it, will take all due care to provide you one, that ſhall well build upon the Foundation that is already laid: Yet, together with the Inſtructions which you ſhall hereafter receive, remember how you have been already taught; And as you loved your Maſter, ſo fol<g ref="char:EOLhyphen"/>low his good Counſel.</p>
+            <p>And if we all uſe our beſt diligence, to fol<g ref="char:EOLhyphen"/>low this and other-like good Examples, then may we hope that we ſhall, in God's due Time, find the ſame Reward of our preſent Holineſs; and we, with all the Holy Servants of God that are gone before us, ſhall be taken up together to be <hi>for ever with the Lord.</hi> Which God of his Infinite Mercy grant, through our Lord and Sa<g ref="char:EOLhyphen"/>viour Jeſus Chriſt.</p>
+            <closer>Amen.</closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:106264:19"/>
+         </div>
+      </body>
+   </text>
+</TEI>
